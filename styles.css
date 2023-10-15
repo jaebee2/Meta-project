@@ -5,7 +5,8 @@ body {
     
 }
 .contents{
-    display: inline;
+    display: table-column;
+    
 }
 
 nav {
